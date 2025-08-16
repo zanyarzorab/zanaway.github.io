@@ -5,6 +5,6 @@
   <title>Redirecting...</title>
 </head>
 <body>
-  <p>If you are not redirected automatically, <a href="home.html">click here</a>.</p>
+  <p>If you are not redirected automatically, <a href="pages/home.blade.php">click here</a>.</p>
 </body>
 </html>
